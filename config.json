@@ -1,0 +1,6 @@
+{
+  "app": "HealthApp",
+  "version": "0.9.0",
+  "db_url": "localhost:5432/healthapp_dev",
+  "entorno": "desarrollo"
+}
